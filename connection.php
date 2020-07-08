@@ -1,8 +1,8 @@
 <?php
-$username = 'id14295534_root';
-$password = 'ima8(D})tmbHo~T>';
+$username = '*********';
+$password = '*********';
 $server = 'localhost';
-$db = 'id14295534_mangaldeepdb';
+$db = '***********';
 
 $con = mysqli_connect($server,$username,$password,$db);
 
