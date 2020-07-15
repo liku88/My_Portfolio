@@ -403,7 +403,7 @@
 
 
     
-    <!--volunteer work-->
+    <!--Certifications-->
     <section id="volunteer" class="section">
       <!-- section title -->
       <div class="section-title">
