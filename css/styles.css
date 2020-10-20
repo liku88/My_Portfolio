@@ -59,13 +59,14 @@ body {
   background: var(--clr-primary-2);
   color: var(--clr-grey-8);
   line-height: 1.5;
-  font-size: 0.875rem;
+  font-size: 0.877rem;
 }
 ul {
   list-style-type: none;
 }
 a {
   text-decoration: none;
+text-align: center;
 }
 h1,
 h2,
@@ -79,6 +80,7 @@ h4 {
 }
 h1 {
   font-size: 3rem;
+	font-weight: 200;
 }
 h2 {
   font-size: 2rem;
